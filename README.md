@@ -51,11 +51,12 @@ I develop **engineering-focused software** by combining **architectural domain e
 - **Learning Focus:** Documents architectural evolution from V1 → V2
 - **Impact:** Demonstrates growth mindset and ability to self-critique code quality
 
-### 🔜 Upcoming: IFC-StructuralAnalyzer
-> *Industry-standard IFC file parser for structural element extraction*
+### [IFCStructuralAnalyzer](https://github.com/mrvekratl/IFCStructuralAnalyzer) —  Industry Standard BIM File Parser
+> *Real-world IFC file parser with structural element extraction and 3D visualization*
 
-- **Tech:** Xbim.Essentials, .NET 8, 3D geometry processing
-- **Goal:** Parse real BIM files (IFC format) and visualize structural data
+- **Tech:**  Xbim.Essentials, .NET 8, WPF, Clean Architecture (4-layer)
+- **Features:** Parse IFC files, extract structural elements (beams, columns, slabs), 3D geometry processing
+- **Highlights:** Industry-standard BIM workflow, multi-layer architecture (Domain, Application, Infrastructure, Presentation)
 
 ---
 
